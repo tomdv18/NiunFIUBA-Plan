@@ -20,7 +20,7 @@
     "react-scripts": "^5.0.1",
     "react-snowfall": "^1.1.1"
   },
-  "homepage": "https://fede.dm/FIUBA-Plan",
+  "homepage": "https://tomdv18.github.io/NiunFIUBA-Plan/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
